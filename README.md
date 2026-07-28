@@ -43,14 +43,18 @@ This GitHub page is just an amalgamation of personal/team competition work, unit
 
 ## GitHub
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/michaeld3n/michaeld3n/main/assets/github-stats.svg?v=20260728-2" alt="Michael's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/michaeld3n/michaeld3n/main/assets/github-contributions.svg?v=20260728-2" alt="Michael's GitHub contributions graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/michaeld3n/michaeld3n/main/assets/github-languages.svg?v=20260728-2" alt="Michael's top languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="/assets/metrics-overview.svg" alt="Michael's GitHub metrics overview" />
+    </td>
+    <td width="50%">
+      <img src="/assets/metrics-languages.svg" alt="Michael's GitHub language metrics" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="/assets/metrics-calendar.svg" alt="Michael's GitHub contribution calendar" width="100%" />
+    </td>
+  </tr>
+</table>

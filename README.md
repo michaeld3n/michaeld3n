@@ -20,30 +20,26 @@ This GitHub page is just an amalgamation of personal/team competition work, unit
 
 <br />
 
-## Things I'm Interested In
+## Stack Experience
 
-<p>
-  <img src="https://img.shields.io/badge/Automation-22272E?style=flat-square" alt="Automation" />
-  <img src="https://img.shields.io/badge/Robotics-22272E?style=flat-square" alt="Robotics" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-22272E?style=flat-square" alt="Embedded Systems" />
-  <img src="https://img.shields.io/badge/Space%20Systems-22272E?style=flat-square" alt="Space Systems" />
-  <img src="https://img.shields.io/badge/High--tech%20Manufacturing-22272E?style=flat-square" alt="High-tech Manufacturing" />
-  <img src="https://img.shields.io/badge/Mining%20Technology-22272E?style=flat-square" alt="Mining Technology" />
-  <img src="https://img.shields.io/badge/Defence%20Technology-22272E?style=flat-square" alt="Defence Technology" />
-</p>
+| | |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=python" width="32" alt="Python logo" /> | Python |
+| <img src="https://skillicons.dev/icons?i=c" width="32" alt="C logo" /> | C |
+| <img src="https://skillicons.dev/icons?i=arduino" width="32" alt="Arduino logo" /> | Arduino |
+| <img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white" alt="ARM logo" /> | ARM Embedded Systems |
+| <img src="https://img.shields.io/badge/SOLIDWORKS-DA291C?style=flat&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS logo" /> | SolidWorks (CAD) |
+| <img src="https://skillicons.dev/icons?i=matlab" width="32" alt="MATLAB logo" /> | MATLAB |
 
-## Tools & Tech I'm Around
+## Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,matlab,git,github,vscode" alt="Python, C++, C, Arduino, Raspberry Pi, MATLAB, Git, GitHub, and VS Code icons" />
-</p>
-
-## What You'll Find Here
-
-- University projects from engineering, coding, and design units
-- Personal projects and experiments
-- Team competition work
-- Half-finished ideas that may or may not become useful later
+| | |
+|---|---|
+| <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white" alt="ROS logo" /> | ROS (Robot Operating System) |
+| <img src="https://skillicons.dev/icons?i=ts" width="32" alt="TypeScript logo" /> | TypeScript |
+| <img src="https://skillicons.dev/icons?i=cpp" width="32" alt="C++ logo" /> | C++ |
+| <img src="https://skillicons.dev/icons?i=raspberrypi" width="32" alt="Raspberry Pi logo" /> | Raspberry Pi |
+| <img src="https://skillicons.dev/icons?i=linux" width="32" alt="Linux logo" /> | Linux |
 
 <br />
 

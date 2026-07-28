@@ -43,21 +43,10 @@ This GitHub page is just an amalgamation of personal/team competition work, unit
 
 ## GitHub
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="/assets/metrics-languages.svg" alt="Michael's GitHub language metrics" width="360" />
-    </td>
-    <td width="50%" align="center">
-      <img src="/assets/metrics-activity.svg" alt="Michael's recent GitHub activity" width="360" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="/assets/metrics-habits.svg" alt="Michael's coding habits and activity" width="360" />
-    </td>
-    <td width="50%" align="center">
-      <img src="/assets/metrics-calendar.svg" alt="Michael's GitHub contribution calendar" width="360" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="/assets/metrics-languages.svg" alt="Michael's GitHub language metrics" width="380" />
+</p>
+
+<p align="center">
+  <img src="/assets/metrics-calendar.svg" alt="Michael's GitHub contribution calendar" width="520" />
+</p>

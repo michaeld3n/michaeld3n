@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/University%20of%20Sydney-3rd%20year-red?style=for-the-badge" alt="University of Sydney 3rd year badge" />
-  <img src="https://img.shields.io/badge/Mechatronic%20Engineering%20%28with%20Space%29-%2B%20Finance-blue?style=for-the-badge" alt="Mechatronic Engineering with Space and Finance badge" />
+  <img src="https://img.shields.io/badge/Mechatronic%20Engineering%20%28with%20Space%29-Finance-blue?style=for-the-badge" alt="Mechatronic Engineering with Space and Finance badge" />
 </p>
 
 <br />
@@ -15,7 +15,7 @@ I'm in my 3rd year of a 5.5 year degree studying Mechatronic Engineering (with S
 
 I'm studying, and am primarily more interested in, the engineering side of things such as automation, robotics, and embedded systems, as well as the implementation of these studies into high-tech manufacturing, minerals and mining, defence, space, and other tech industries. I still have 3+ years left in my degree, so I'm still exploring career and industry options.
 
-This GitHub page is just an amalgamation of personal/team competition work, unit projects, and other random repos that I have made. The public repos, at least.
+This GitHub page is just an amalgamation of personal/team competition work, unit projects, and other random repos that I have made (the public repos, at least).
 
 <br />
 
@@ -44,5 +44,13 @@ This GitHub page is just an amalgamation of personal/team competition work, unit
 ## GitHub
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=michaeld3n&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Profile views" />
+  <img src="./assets/github-stats.svg" alt="Michael's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="./assets/github-contributions.svg" alt="Michael's GitHub contributions graph" />
+</p>
+
+<p align="center">
+  <img src="./assets/github-languages.svg" alt="Michael's top languages" />
 </p>

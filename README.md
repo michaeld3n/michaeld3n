@@ -22,27 +22,21 @@ This GitHub page is just an amalgamation of personal/team competition work, unit
 
 ## Stack Experience
 
-| | |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=python" width="32" alt="Python logo" /> | Python |
-| <img src="https://skillicons.dev/icons?i=c" width="32" alt="C logo" /> | C |
-| <img src="https://skillicons.dev/icons?i=arduino" width="32" alt="Arduino logo" /> | Arduino |
-| <img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white" alt="ARM logo" /> | ARM Embedded Systems |
-| <img src="https://img.shields.io/badge/SOLIDWORKS-DA291C?style=flat&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS logo" /> | SolidWorks (CAD) |
-| <img src="https://skillicons.dev/icons?i=matlab" width="32" alt="MATLAB logo" /> | MATLAB |
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ARM%20Embedded%20Systems-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Embedded Systems" />
+  <img src="https://img.shields.io/badge/SolidWorks%20%28CAD%29-DA291C?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks CAD" />
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge" alt="MATLAB" />
+</p>
 
-## Learning
+## Currently Learning
 
-| | |
-|---|---|
-| <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white" alt="ROS logo" /> | ROS (Robot Operating System) |
-| <img src="https://skillicons.dev/icons?i=ts" width="32" alt="TypeScript logo" /> | TypeScript |
-| <img src="https://skillicons.dev/icons?i=cpp" width="32" alt="C++ logo" /> | C++ |
-| <img src="https://skillicons.dev/icons?i=raspberrypi" width="32" alt="Raspberry Pi logo" /> | Raspberry Pi |
-| <img src="https://skillicons.dev/icons?i=linux" width="32" alt="Linux logo" /> | Linux |
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaeld3n&show_icons=true&theme=github_dark&hide_border=true" alt="Michael's GitHub stats" />
+<p>
+  <img src="https://img.shields.io/badge/ROS%20%28Robot%20Operating%20System%29-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS Robot Operating System" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>

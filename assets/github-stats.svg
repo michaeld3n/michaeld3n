@@ -18,7 +18,7 @@
   <text x="244" y="100" class="value">4 / 18</text>
   <circle cx="464" cy="63" r="4" fill="#3fb950"/>
   <text x="478" y="70" class="label">Contributions</text>
-  <text x="464" y="100" class="value">369</text>
+  <text x="464" y="100" class="value">370</text>
   <circle cx="24" cy="125" r="4" fill="#d29922"/>
   <text x="38" y="132" class="label">Stars</text>
   <text x="24" y="162" class="value">3</text>

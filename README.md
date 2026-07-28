@@ -23,7 +23,7 @@ This GitHub page is just an amalgamation of personal/team competition work, unit
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="./assets/c.svg" width="28" alt="C logo" /> C
+  <img src="https://img.shields.io/badge/C-659AD2?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/ARM%20Embedded%20Systems-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Embedded Systems" />
   <img src="https://img.shields.io/badge/SolidWorks%20%28CAD%29-DA291C?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks CAD" />
@@ -45,13 +45,4 @@ This GitHub page is just an amalgamation of personal/team competition work, unit
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=michaeld3n&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaeld3n&theme=github_dark" alt="Michael's GitHub profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=michaeld3n&theme=github_dark" alt="Michael's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaeld3n&theme=github_dark" alt="Michael's top repository languages" />
 </p>

@@ -41,10 +41,8 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 30
-          plugin_activity_visibility: all
-          plugin_activity_timestamps: yes
-          plugin_activity_filter: push, issue, pr, review, release, ref/create
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           config_timezone: Australia/Sydney
 
       - name: Coding habits
@@ -56,12 +54,8 @@ jobs:
           template: classic
           base: ""
           plugin_habits: yes
-          plugin_habits_from: 300
-          plugin_habits_days: 30
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_trim: yes
+          plugin_habits_charts: no
           config_timezone: Australia/Sydney
 
       - name: Calendar

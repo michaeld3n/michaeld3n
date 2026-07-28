@@ -1,0 +1,36 @@
+name: Profile cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "27 16 * * *"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets/metrics-activity.svg"
+      - "assets/metrics-habits.svg"
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity and habits cards
+        env:
+          GITHUB_USERNAME: michaeld3n
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: python scripts/generate_profile_cards.py
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/metrics-activity.svg assets/metrics-habits.svg
+          git diff --cached --quiet || git commit -m "Update generated profile cards"
+          git push

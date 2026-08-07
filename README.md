@@ -17,6 +17,8 @@ I'm studying, and am primarily more interested in, the engineering side of thing
 
 This GitHub page is just an amalgamation of personal/team competition work, unit projects, and other random repos that I have made (the public repos, at least).
 
+- Note that as of now (August 2026) this page has mostly private repos, and it'll be a while until I upload some newer projects :) 
+
 <br />
 
 ## Stack Experience
